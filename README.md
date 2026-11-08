@@ -67,3 +67,56 @@ A pesquisa na web usa a busca do seu harness. Se ele não tiver busca própria, 
 Copie, preencha o que está entre colchetes e envie. Não precisa de formato perfeito: o agente pede mais detalhes se precisar.
 
 **🗺️ Plano de estudos**
+
+Quero montar um plano de estudos.
+- Meu objetivo: [ex: ser dev back-end, concluir um Bootcamp]
+- O que quero fazer na DIO: [link ou nome do Bootcamp, Formação, Aceleração ou Carreira]
+- O que já tenho: [um plano de ação ou de estudos, se tiver]
+- Meu nível hoje: [iniciante, intermediário, avançado]
+- Tempo disponível: [ex: 1 hora por dia, de segunda a sexta]
+
+🔓 Destravar desafio
+
+Estou travado em um Desafio de [Código, Projeto ou Criativo] da DIO.
+- O que o desafio pede: [cole o enunciado ou, no Desafio de Projeto, o link do repositório do desafio]
+- Onde eu travei: [explique o ponto da dificuldade]
+- Meu código ou repositório: [cole o código ou o link, se tiver]
+Me ajuda a destravar sem dar a resposta pronta.
+
+💡 Explicar conceito
+
+Me explica o conceito de [ex: API, laço de repetição, herança].
+- Meu nível: [nunca vi, já ouvi falar, quero aprofundar]
+
+🧭 Caminho AI Builder
+
+Quero escolher meu próximo passo na Carreira AI Builder.
+- O que quero construir com IA: [ex: um produto para o meu negócio, um software, agentes que automatizam processos, ainda não sei]
+- Minha experiência com programação: [nenhuma, o básico, trabalho com desenvolvimento]
+- Meu objetivo: [ex: mudar de carreira, tirar uma ideia do papel]
+
+🔄 Mantenha o DIO Agent atualizado
+O DIO Agent evolui com o tempo. Se você usou Git, rode git pull no terminal, dentro da pasta (ou peça para o próprio agente rodar). Se baixou o .zip, baixe de novo.
+
+🗂️ Estrutura do repositório
+
+dio-agent/
+├── README.md                Este guia
+├── AGENTS.md                Definição do agente (lida pelo harness)
+├── CLAUDE.md                Atalho para o Claude Code
+├── agent/
+│   ├── persona.md           A personalidade e o tom do agente
+│   └── knowledge/           O que o agente sabe sobre a DIO
+├── skills/                  Uma pasta por skill, cada uma com o seu SKILL.md
+└── docs/
+    ├── glossary.md          Glossário de termos
+    └── youcom-mcp.md        Como conectar a busca do You.com
+
+    🤝 Contribua
+Tem uma ideia de skill? Veja como criar uma skill e abra um pull request.
+
+💬 Sobre este projeto
+O DIO Agent foi criado para acompanhar você nos Bootcamps e Formações da DIO. A ideia é simples: aprender na era da IA fica mais fácil quando você tem um mentor disponível a qualquer hora.
+
+Bons estudos, e vem com a gente. 🚀
+
